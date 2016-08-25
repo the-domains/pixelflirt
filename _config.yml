@@ -1,0 +1,14 @@
+layout_spectrum: 0.8157272206153721
+typography_spectrum: 0.45145646552555263
+color:
+  brandStrength: 0.8054094871040434
+  lightness: 0.570266725262627
+  saturation: 0.1306019143667072
+  rhythmicContrast: 0.8744549385737628
+  brandColors:
+    - '#FF6138'
+    - '#FFFF9D'
+    - '#BEEB9F'
+    - '#79BD8F'
+    - '#00A388'
+name: pixelflirt
